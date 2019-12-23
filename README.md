@@ -56,7 +56,7 @@ List of live projects
         <li><b>Technology</b></br></li>
         <li>Android</li>
         <li>Java</li>
-        <li>Matrrial Design</li>
+        <li>Material Design</li>
         <li>Retrofit for networking</li>
         <li>Room persistancy library for local database</li> 
         <li>Work manager for synchronization</li>
@@ -90,11 +90,11 @@ List of live projects
         <li><b>Technology</b></br></li>
         <li>Android</li>
         <li>Java</li>
-        <li>Matrial Design</li>
+        <li>Material Design</li>
         <li>Retrofit for networking</li>
-        <li>Room persistancy library for local database</li>
-        <li>Work manager for synchronization</li>
-        <li>PHP,MySQL for Backend</li>
+        <li>SQLite for local database</li>
+        <li>Sync Adapter for Synchronization</li>
+        <li>....</li>
       </ul>
     </td>
   </tr>
