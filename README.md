@@ -25,10 +25,8 @@ List of live projects
     <td>
       <ul>
         <li>Android</li>
+        <li>java</li>
         <li>Firebase database</li>
-        <li>Copy to clip board</li>
-        <li>SMS Share</li> 
-        <li>Font change</li>
       </ul>
     </td>
   </tr>
@@ -61,7 +59,6 @@ List of live projects
         <li>Chapter wise or juz wise verses</li>
         <li>Minimize and maximize an explanation</li>
         <li>Offline access</li> 
-        <li>Font change</li>
       </ul>
     </td>
     <td>
@@ -82,7 +79,7 @@ List of live projects
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
 <h3>RAK Ceramics Bangladesh</h3>
-<h4>E-catalog app for RAK Ceramics Bd.App designed for customer, dealer and their executives.</h4>
+<h4>E-catalog app for RAK Ceramics BD. App designed for customer, dealer and their executives.</h4>
 <table >
   <tr>
     <th>
@@ -102,7 +99,7 @@ List of live projects
         <li>Stock file download facility</li> 
         <li>Event Gallery</li>
         <li>Offline Capability and Auto Synchronization</li>
-        <li>Protional offer, notification</li>
+        <li>Promotional offer, notification</li>
       </ul>
     </td>
     <td>
@@ -113,7 +110,7 @@ List of live projects
         <li>Retrofit for networking</li>
         <li>SQLite for local database</li>
         <li>Sync Adapter for Synchronization</li>
-        <li>....</li>
+        <li>One Signal for notification</li>
       </ul>
     </td>
   </tr>
@@ -124,7 +121,7 @@ List of live projects
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
 <h3>RAK CPL</h3>
-<h4>A sales tool for RAK Consumer Limited. Sales Representative use this to boost their sale. And Manager stay updated via this app. </h4>
+<h4>A sales tool for RAK Consumer Limited. Sales Representative use this to boost their sales. And Manager stay updated via this app. </h4>
 <table >
   <tr>
     <th>
@@ -143,9 +140,9 @@ List of live projects
         <li>Scheduled customer checkin (Location or QR Code)</li>
         <li>Order taking from customer</li>
         <li>Delivery to customer</li> 
-        <li>Trader Offer respecting business area</li> 
+        <li>Trader offer respecting business area</li> 
         <li>Add new customer</li>
-        <li>Offline Capability and Auto Synchronization</li>
+        <li>Offline capability and Auto Synchronization</li>
       </ul>
     </td>
     <td>
@@ -154,8 +151,8 @@ List of live projects
         <li>Java</li>
         <li>Material design</li>
         <li>Retrofit for networking</li>
-        <li>Room persistency Library for local database</li>
-        <li>Sync Adapter for Synchronization</li>
+        <li>Room persistency library for local database</li>
+        <li>Sync adapter for synchronization</li>
       </ul>
     </td>
   </tr>
