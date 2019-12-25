@@ -32,7 +32,7 @@ List of live projects
   </tr>
  </table>
 
-<i> https://play.google.com/store/apps/details?id=com.fardoushlab.kobitaapp </i>
+<i><a href="https://play.google.com/store/apps/details?id=com.fardoushlab.kobitaapp">Play Store: </a> https://play.google.com/store/apps/details?id=com.fardoushlab.kobitaapp </i>
 </br>
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
@@ -74,7 +74,7 @@ List of live projects
     </td>
   </tr>
  </table>
-<i>https://play.google.com/store/apps/details?id=com.deenhaq.hidayatulquran</i>
+<i><a href="https://play.google.com/store/apps/details?id=com.deenhaq.hidayatulquran">Play Store: </a>https://play.google.com/store/apps/details?id=com.deenhaq.hidayatulquran</i>
 
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
@@ -116,7 +116,7 @@ List of live projects
   </tr>
  </table>
 
-<i> https://play.google.com/store/apps/details?id=com.rakcerambd.rakceramics</i>
+<i><a href="https://play.google.com/store/apps/details?id=com.rakcerambd.rakceramics">Play Store: </a> https://play.google.com/store/apps/details?id=com.rakcerambd.rakceramics</i>
 
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
@@ -158,10 +158,47 @@ List of live projects
   </tr>
  </table>
 
-<i> https://play.google.com/store/apps/details?id=net.mbiztech.rakcpl2 </i>
+<i><a href="https://play.google.com/store/apps/details?id=net.mbiztech.rakcpl2">Play Store: </a> https://play.google.com/store/apps/details?id=net.mbiztech.rakcpl2 </i>
 
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
-<i> https://play.google.com/store/apps/details?id=net.mbiztech.mcontact</i>
+
+<h3>M Contact<h4>
+<h4>Ultimate Contact app for your family,friends and organization. Use,manage and backup your contact in a smooth way</h4>
+  <table >
+  <tr>
+    <th>
+      <b>Features</b>
+    </th>
+    <th>
+      <b>Technology</b>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Create, manage, backup and synchronize your contacts</li>
+        <li>Access in offline, always backed up in server</li>
+        <li>Beautiful User Interface</li>
+        <li>Login and profile facility to manage your account</li>
+        <li> Store contact dept. wise</li>
+        <li>Manual and automatic synchronization</li> 
+        <li>Multiple phone number and email</li> 
+        <li>Add new customer</li>
+        <li>Offline capability and Auto Synchronization</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Flutter</li>
+        <li>Dart</li>
+        <li>Material design</li>
+        <li>sqflite library for local database</li>
+      </ul>
+    </td>
+  </tr>
+ </table>
+<i><a href="https://play.google.com/store/apps/details?id=net.mbiztech.mcontact">Play Store: </a> 
+  https://play.google.com/store/apps/details?id=net.mbiztech.mcontact</i>
 
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 <i> https://gitlab.com/bashirfardoush/rak-feedback-screenshot </i>
