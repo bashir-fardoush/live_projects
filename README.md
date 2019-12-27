@@ -88,7 +88,7 @@ List of live projects
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
 <h3>M Contact<h4>
-<h4>Ultimate Contact app for your family,friends and organization. Use,manage and backup your contact in a smooth way</h4>
+<h4>Ultimate Contact app for your family,friends and organization. Create, manage, use, backup your conatacts group/dept. wise. All off you will get access of respective group/dept contact.</h4>
   <table >
   <tr>
     <th>
@@ -106,9 +106,7 @@ List of live projects
         <li>Beautiful User Interface</li>
         <li>Login and profile facility to manage your account</li>
         <li> Store contact dept. wise</li>
-        <li>Manual and automatic synchronization</li> 
         <li>Multiple phone number and email</li> 
-        <li>Add new customer</li>
         <li>Offline capability and Auto Synchronization</li>
       </ul>
     </td>
