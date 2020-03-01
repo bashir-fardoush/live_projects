@@ -3,6 +3,48 @@ List of live projects
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
 
+<h3>ICC Web</h3>
+<h4>Admin panel for ICC. </h4>
+<table >
+  <tr>
+    <th>
+      <b>Features</b>
+    </th>
+    <th>
+      <b>Technology</b>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Spring security login with username and password</li>
+        <li>Role wise access</li>
+        <li>Show/insert/upate/delete country, team, coach, player</li>
+        <li>Assign coach, player to team </li>
+        <li>Show team members</li>
+        <li>Profile picture change</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Spring web mvc</li>
+        <li>Spring security</li>
+        <li>Hibernate</li>
+        <li>Criteria query</li>
+        <li>PostgreSQL</li>
+        <li>JSP</li>
+        <li>Bootstrap 4</li>
+      </ul>
+    </td>
+  </tr>
+ </table>
+
+<i><a href="https://icc-web.herokuapp.com">Live on Heroku: </a>https://icc-web.herokuapp.com</i></br>
+<i><a href="https://github.com/bashir-fardoush/icc-web">Source code: </a>https://github.com/bashir-fardoush/icc-web</i>
+
+<hr style="height:1px;  border:none; color:#333; background-color:#333;" />
+
+
 <h3>RAK Ceramics Bangladesh</h3>
 <h4>E-catalog app for RAK Ceramics BD. App designed for customer, dealer and their executives.</h4>
 <table >
