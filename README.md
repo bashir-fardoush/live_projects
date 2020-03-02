@@ -39,6 +39,8 @@ List of live projects
   </tr>
  </table>
 
+<i>Username: Admin</i>
+<i>Password: asecret</i>
 <i><a href="https://icc-web.herokuapp.com">Live on Heroku: </a>https://icc-web.herokuapp.com</i></br>
 <i><a href="https://github.com/bashir-fardoush/icc-web">Source code: </a>https://github.com/bashir-fardoush/icc-web</i>
 
