@@ -2,6 +2,92 @@
 List of live projects
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
+<h3>Meeting Room Management System</h3>
+<h4>Meeting Booking system for any organization</h4>
+<table >
+  <tr>
+    <th>
+      <b>Features</b>
+    </th>
+    <th>
+      <b>Technology</b>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Spring security registration and login</li>
+        <li>Role wise access</li>
+        <li>Meeting event calender</li>
+        <li>Create, edit, cancel meeting from user(Team Manager) end</li>
+        <li>Approve, reject, suggest change from HR end</li>
+        <li>Add, update, delete resources for meeting room</li>
+        <li>Maintain profile</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Spring web mvc</li>
+        <li>Spring security</li>
+        <li>Spring Date Jpa</li>
+        <li>Java</li>
+        <li>Javascript</>
+        <li>REST API</li>
+        <li>MySQL</li>
+        <li>JSP</li>
+        <li>Bootstrap 4</li>
+      </ul>
+    </td>
+  </tr>
+ </table>
+<!--
+<i>Username: Admin</i></br>
+<i>Password: asecret</i></br>
+<i><a href="https://icc-web.herokuapp.com">Live on Heroku: </a>https://icc-web.herokuapp.com</i></br>-->
+
+<hr style="height:1px;  border:none; color:#333; background-color:#333;" />
+
+<h3>Picstagram</h3>
+<h4>Instagram Clone App</h4>
+<table >
+  <tr>
+    <th>
+      <b>Features</b>
+    </th>
+    <th>
+      <b>Technology</b>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Spring security registration and login</li>
+        <li>Role wise access</li>
+        <li>Post, like, comment</li>
+        <li>Add friend</li>
+        <li>Maintain profile</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Spring web mvc</li>
+        <li>Spring security</li>
+        <li>Hibernate</li>
+        <li>Criteria query</li>
+        <li>PostgreSQL</li>
+        <li>JSP</li>
+        <li>Bootstrap 4</li>
+      </ul>
+    </td>
+  </tr>
+ </table>
+<!--
+<i>Username: Admin</i></br>
+<i>Password: asecret</i></br>
+<i><a href="https://icc-web.herokuapp.com">Live on Heroku: </a>https://icc-web.herokuapp.com</i></br>
+<i><a href="https://github.com/bashir-fardoush/picstagram">Source code: </a>https://github.com/bashir-fardoush/picstagram</i>-->
+
+<hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
 <h3>ICC Web</h3>
 <h4>Admin panel for ICC. </h4>
