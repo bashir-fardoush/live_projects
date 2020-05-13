@@ -40,10 +40,10 @@ List of live projects
     </td>
   </tr>
  </table>
-<!--
+
 <i>Username: Admin</i></br>
-<i>Password: asecret</i></br>
-<i><a href="https://icc-web.herokuapp.com">Live on Heroku: </a>https://icc-web.herokuapp.com</i></br>-->
+<i>Password: admin</i></br>
+<i><a href="https://hyperloop-mrms.herokuapp.com/">Live on Heroku: </a>https://hyperloop-mrms.herokuapp.com/</i></br>
 
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
