@@ -3,7 +3,7 @@ List of live projects
 <hr style="height:1px;  border:none; color:#333; background-color:#333;" />
 
 <h3>Meeting Room Management System</h3>
-<h4>Meeting Booking system for any organization</h4>
+<h4>A platform to book central meeting space in large organization.</h4>
 <table >
   <tr>
     <th>
